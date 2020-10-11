@@ -16,3 +16,6 @@ def pow(base, power):
 
 def sub(a, b):
     return a-b
+
+def hello():
+    print("Hello")
